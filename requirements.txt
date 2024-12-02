@@ -1,0 +1,4 @@
+python-telegram-bot==20.0
+python-dotenv==1.0.0
+smtplib==3.10.1
+re==2.2.1
